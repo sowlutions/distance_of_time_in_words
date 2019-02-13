@@ -2,24 +2,24 @@ en:
   datetime:
     dotiw:
       seconds:
-        one: 1 second
-        other: "%{count} seconds"
+        one: 1 sec
+        other: "%{count} sec"
       minutes:
-        one: 1 minute
-        other: "%{count} minutes"
+        one: 1 min
+        other: "%{count} min"
       hours:
-        one: 1 hour
-        other: "%{count} hours"
+        one: 1 hr
+        other: "%{count} hr"
       days:
-        one: 1 day
-        other: "%{count} days"
+        one: 1 d
+        other: "%{count} d"
       weeks:
         one: 1 week
-        other: "%{count} weeks"
+        other: "%{count} w"
       months:
-        one: 1 month
-        other: "%{count} months"
+        one: 1 mo
+        other: "%{count} mo"
       years:
-        one: 1 year
-        other: "%{count} years"
+        one: 1 yr
+        other: "%{count} yr"
       less_than_x: "less than %{distance}"
